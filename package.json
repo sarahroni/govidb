@@ -2,8 +2,8 @@
   "private": true,
   "scripts": {
     "dev": "next",
-    "build": "next build",
-    "start": "serve out"
+    "build": "npx next build",
+    "start": "out"
   },
   "dependencies": {
     "@types/node": "^18.11.5",
